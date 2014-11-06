@@ -1,4 +1,4 @@
-package mvctest
+package com.gft.sbakka
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration

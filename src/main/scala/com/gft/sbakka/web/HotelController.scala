@@ -1,13 +1,13 @@
-package mvctest.web
+package com.gft.sbakka.web
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.stereotype.Controller
-import mvctest.service.HotelRepository
+import com.gft.sbakka.service.HotelRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.ui.Model
 import java.lang.Long
 import org.springframework.web.bind.annotation.PathVariable
-import mvctest.domain.Hotel
+import com.gft.sbakka.domain.Hotel
 import org.springframework.validation.BindingResult
 import org.springframework.web.bind.annotation.RequestMethod
 import javax.validation.Valid

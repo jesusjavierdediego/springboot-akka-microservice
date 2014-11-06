@@ -1,4 +1,4 @@
-package mvctest
+package com.gft.sbakka
 
 import org.springframework.boot.SpringApplication
 

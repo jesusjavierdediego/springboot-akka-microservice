@@ -33,11 +33,11 @@ And then run JAR as usual, something like this:
 
 Unix
 ```
-nohup java -jar build/libs/spring-boot-scala-web-0.1.0.jar 1>/dev/null 2>&1 &
+nohup java -jar build/libs/springboot-akka-microservice-0.1.0.jar 1>/dev/null 2>&1 &
 ```
 Windows
 ```
-java -jar build/libs/spring-boot-scala-web-0.1.0.jar 1>/dev/null
+java -jar build/libs/springboot-akka-microservice-0.1.0.jar 1>/dev/null
 ```
 
 A url listing the hotels is at [http://localhost:8080/hotels](http://localhost:8080/hotels)

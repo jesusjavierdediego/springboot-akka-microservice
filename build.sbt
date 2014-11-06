@@ -1,4 +1,4 @@
-name := "spring-boot-scala-web"
+name := "springboot-akka-microservice"
 
 version := "1.0"
 

@@ -1,4 +1,4 @@
-package com.gft.sbakka
+package com.hppoc.sbakka
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration

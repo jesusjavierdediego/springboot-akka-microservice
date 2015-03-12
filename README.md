@@ -26,7 +26,7 @@ To build & run:
 Or use SBT..
 
 Start up the sbt console using `sbt`
-Run the Spring boot main program using `runMain com.gft.sbakka.SampleWebApplication`
+Run the Spring boot main program using `runMain com.hppoc.sbakka.SampleWebApplication`
 
 
 And then run JAR as usual, something like this:

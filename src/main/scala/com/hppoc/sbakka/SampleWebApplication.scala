@@ -1,4 +1,4 @@
-package com.gft.sbakka
+package com.hppoc.sbakka
 
 import org.springframework.boot.SpringApplication
 

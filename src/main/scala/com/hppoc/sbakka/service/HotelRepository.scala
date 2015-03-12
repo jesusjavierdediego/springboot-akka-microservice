@@ -1,7 +1,7 @@
-package com.gft.sbakka.service
+package com.hppoc.sbakka.service
 
 import org.springframework.data.repository.CrudRepository
-import com.gft.sbakka.domain.Hotel
+import com.hppoc.sbakka.domain.Hotel
 import java.lang.Long
 
 trait HotelRepository extends CrudRepository[Hotel, Long]

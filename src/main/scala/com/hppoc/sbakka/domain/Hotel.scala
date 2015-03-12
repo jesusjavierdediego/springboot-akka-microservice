@@ -1,4 +1,4 @@
-package com.gft.sbakka.domain
+package com.hppoc.sbakka.domain
 
 import javax.persistence.Id
 import javax.persistence.GeneratedValue

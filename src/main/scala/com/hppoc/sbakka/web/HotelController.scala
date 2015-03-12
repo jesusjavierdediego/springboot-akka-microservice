@@ -1,13 +1,13 @@
-package com.gft.sbakka.web
+package com.hppoc.sbakka.web
 
 import org.springframework.web.bind.annotation.RequestMapping
 import org.springframework.stereotype.Controller
-import com.gft.sbakka.service.HotelRepository
+import com.hppoc.sbakka.service.HotelRepository
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.ui.Model
 import java.lang.Long
 import org.springframework.web.bind.annotation.PathVariable
-import com.gft.sbakka.domain.Hotel
+import com.hppoc.sbakka.domain.Hotel
 import org.springframework.validation.BindingResult
 import org.springframework.web.bind.annotation.RequestMethod
 import javax.validation.Valid
